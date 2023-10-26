@@ -2,7 +2,7 @@
 ft-session is an organization making tools designed to help you achieve your logtime objectives.
 
 # session
-Review our session tool at the following link: [`session`](https://github.com/ft-session/session)
+Checkout our latest tool: [`session`](https://github.com/ft-session/session)
 
 ### Install session
 ```sh
